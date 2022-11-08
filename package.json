@@ -1,0 +1,11 @@
+{
+    "name": "voxelified-commons",
+    "main": "index.ts",
+    "type": "module",
+    "version": "1.0.0",
+    "author": "Voxelified",
+    "license": "MIT",
+    "dependencies": {
+        "@tauri-apps/api": "^1.1.0"
+    }
+}
